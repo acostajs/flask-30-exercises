@@ -1,4 +1,4 @@
-# Flask Web Dev - 30 Exercises
+# Flask - 30 Exercises
 
 Welcome to my Flask web development practice repository!  
 This project contains 30 exercises designed to help me master Flask backend development and Jinja templating through practical, component-based challenges.
